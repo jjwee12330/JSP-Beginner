@@ -7,6 +7,6 @@
 <title>처음으로 작성하는 JSP페이지</title>
 </head>
 <body>
-	<%= "처음으로 작성하는 JSP페이지" %>
+	<%= "처음으로 작성하는 JSP페이지123" %>
 </body>
 </html>
